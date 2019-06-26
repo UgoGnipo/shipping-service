@@ -1,4 +1,4 @@
-applications:
+applications: 
 - name: shipping-service-js-19
   memory: 128M
   instances: 1
